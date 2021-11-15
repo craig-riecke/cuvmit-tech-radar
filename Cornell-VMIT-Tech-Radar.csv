@@ -1,5 +1,20 @@
 ﻿name,ring,quadrant,isNew,description
-Four key metrics,Adopt,Techniques,FALSE,Hi mom!
-Backstage,Trial,Platforms,FALSE,Hi mom!
-cert-manager,Assess,Tools,TRUE,Hi mom!
-Jetpack Compose,Hold,languages-and-frameworks,TRUE,Hi mom!
+Loopback,Assess,Languages & Frameworks,TRUE,"Loopback is a framework for writing Microservices, similar to NestJS"
+Bootstrap,Assess,Languages & Frameworks,TRUE,Bootstrap is a CSS framework already used in AngularJS Apps.  Evaluate it as a replacement in Angular for Material
+Strapi,Assess,Languages & Frameworks,TRUE,Strapi is an open source Headless CSS Framework running on NodeJS
+Gatsby,Assess,Languages & Frameworks,TRUE,Gatsby is a static site generation tool similar to Jekyll
+TypeORM,Trial,Languages & Frameworks,TRUE,TypeORM is a database Object Relational Mapping Tool heavily tied to TypeScript.  It is a replacement for ObjectionJS
+NestJS,Trial,Languages & Frameworks,TRUE,"NestJS is an opinionated framework for writing microsservices, very similar in architectural design to Angular"
+date-fns,Trial,Languages & Frameworks,TRUE,date-fns is a svelte library of Date functions using JavaScript's immutable Date type
+K9s,Assess,Tools,TRUE,k9s is a text-based terminal tool that makes k8s administration easier
+QuickSight,Adopt,Tools,TRUE,"QuickSight is an AWS tool for Business Intelligence Dashboards, similar to Tableau"
+Glue,Hold,Tools,TRUE,Glue is an AWS Tool for ETL - Extract Transfer Load
+Azure,Assess,Platforms,TRUE,Azure is Microsoft's alternative to AWS
+Google Computing Platform,Assess,Platforms,TRUE,GCP is Google's alternative to AWS
+Github,Assess,Platforms,TRUE,"Github is cloud-based Git repositiory hosting, similar to Bitbucket"
+Micro Front Ends,Assess,Techniques,TRUE,Micro Frontends are the equivalent to Microservices on the client side
+Headless CMS,Assess,Techniques,TRUE,"Headless CMS's provide a UI for content creation and workflow, while leaving the actual display up to the organization"
+Machine Learning,Assess,Techniques,TRUE,Machine Learning Platforms turn tons of data into classification schemes that can be used on unknown data
+Low Code Environments,Assess,Techniques,TRUE,Low code platforms allow non-developers to make certain changes and enhancements to web applications
+Database Migration as Code,Trial,Techniques,TRUE,Describing database changes in programs that can be source-controlled
+CI/CD Testing,Trial,Techniques,TRUE,Run automated tests and use as gatekeeper for deployment
