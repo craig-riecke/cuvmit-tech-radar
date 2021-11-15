@@ -1,4 +1,5 @@
 ﻿name,ring,quadrant,isNew,description
+Angular,Adopt,Languages & Frameworks,TRUE,"Angular is a client-based SPA Framework.  I'm listing it here because the Radar draws the rings in order listed in the spreadsheet, wierdly."
 Loopback,Assess,Languages & Frameworks,TRUE,"Loopback is a framework for writing Microservices, similar to NestJS"
 Bootstrap,Assess,Languages & Frameworks,TRUE,Bootstrap is a CSS framework already used in AngularJS Apps.  Evaluate it as a replacement in Angular for Material
 Strapi,Assess,Languages & Frameworks,TRUE,Strapi is an open source Headless CSS Framework running on NodeJS
